@@ -1,3 +1,5 @@
+// compiler command - gcc -O0 mutli_thread.c -o multi_thread
+
 #include <stdio.h>
 #include <windows.h>
 
